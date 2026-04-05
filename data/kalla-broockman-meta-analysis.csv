@@ -1,0 +1,52 @@
+study,primary_or_general,seat,treatment_mode,estimate_pp,se_pp,year
+Arceneaux (2007),Primary,County,Candidate Canvass,0.423,0.19,2004
+Arceneaux (2007),Primary,County,Canvass,0.183,0.13,2004
+Arceneaux (2007),Primary,County,Phone,0.186,0.08,2004
+Arceneaux and Kolodny (2009),General,State Legislative,Canvass,-0.3,0.155,2006
+Arceneaux and Kolodny (2009),General,State Legislative,Phone,-0.22,0.15,2006
+"Bailey, Hopkins and Rogers (2016)",General,President,Canvass,-0.094,0.053,2008
+"Bailey, Hopkins and Rogers (2016)",General,President,Phone,0.075,0.074,2008
+"Bailey, Hopkins and Rogers (2016)",General,President,Mail,0.0033,0.0102,2008
+"Barton, Castillo and Petrie (2014)",General,County,Candidate Canvass,0.207,0.104,2010
+"Barton, Castillo and Petrie (2014)",General,County,Lit Drop,0.051,0.075,2010
+Broockman and Green (2014) Study 1,General,State Legislative,Online Ads,0.0,0.02,2012
+Broockman and Green (2014) Study 2,General,US House,Online Ads,0.011,0.03,2012
+Cardy (2005),Primary,Governor,Mail and Phone,0.023,0.038,2002
+Cubbison (2015),General,State Legislative,Mail,0.0001,0.0142,2014
+Doherty and Adler (2014),General,State Legislative,Mail,0.0304,0.0096,2012
+Doherty and Adler (2014),General,State Legislative,Mail,-0.0066,0.0206,2012
+Doherty and Adler (2014),General,State Legislative,Mail,0.0107,0.0198,2012
+Gerber (2004) Study 1,General,State Legislative,Mail,0.016,0.036,1999
+Gerber (2004) Study 2,General,State Legislative,Mail,-0.022,0.037,2000
+Gerber (2004) Study 3,General,Mayoral,Mail,0.042,0.025,1999
+Gerber (2004) Study 4,Primary,US House,Mail,0.014,0.004,2002
+Gerber (2004) Study 5,General,US House,Mail,0.0001,0.0025,2002
+Gerber et al. (2011a),General,Statewide,Mail,0.138,0.181,2006
+Gerber et al. (2011b),General,Governor,TV,0.0544,0.0177,2006
+Gerber et al. (2011b),General,Governor,TV,-0.0017,0.0142,2006
+Gerber et al. (2011b),General,Governor,TV,0.0121626,0.0178665,2006
+Gerber et al. (2011b),General,Governor,Radio,0.0483,0.0599,2006
+Kalla and Sekhon (2017),General,President,TV,-0.0039,0.009,2016
+Miller and Robyn (1975),Primary,US House,Mail,0.088,0.078,1974
+Nickerson (2005),General,Governor,Phone,-0.016,0.051,2002
+Nickerson (2005),General,State Legislative,Phone,-0.042,0.053,2002
+Nickerson (2007),General,Governor,Canvass,-0.055,0.041,2006
+Nickerson (2007),General,State Legislative,Canvass,-0.053,0.045,2006
+Potter and Gray (2008),General,Magistrate,Mail,0.03,0.104,2006
+Potter and Gray (2008),General,Magistrate,Canvass,0.24,0.45,2006
+Rogers and Nickerson (2013),General,US Senate,Mail,0.039,0.014,2008
+Sadin (2016),General,President,Mail,0.0009,0.009,2012
+Shaw et al. (2012),Primary,Supreme Court,Robocalls,0.004,0.006,2006
+"Strauss (2009), Section 5.5.4",General,President,Mail,0.01,0.018,2008
+Cunow and Schwenzfeier (2015) Study 1,General,Governor,Canvass,-0.026,0.048,2014
+Cunow and Schwenzfeier (2015) Study 1,General,Senate,Canvass,-0.01,0.02,2014
+Cunow and Schwenzfeier (2015) Study 2,General,Governor,Canvass,-0.014,0.042,2014
+Cunow and Schwenzfeier (2015) Study 2,General,Senate,Canvass,0.011,0.036,2014
+Cunow and Schwenzfeier (2015) Study 3,General,Governor,Canvass,0.044,0.049,2014
+Shaw et al. (2017),General,Governor,Online Ads,0.02972635,0.01768825,2014
+Shaw et al. (2017),General,Governor,Online Video Ads,-0.0229264,0.0173476,2014
+Shaw et al. (2017),General,Governor,Facebook Ads,-0.0227465,0.017706,2014
+Shaw et al. (2017),General,Governor,Mail,0.00960525,0.01670095,2014
+Shaw et al. (2017),General,Governor,Cable TV,-0.0242723,0.023351,2014
+Shaw et al. (2017),General,Governor,Radio,0.005942815,0.008733635,2014
+Shaw et al. (2017),General,Governor,Broadcast TV,-0.002444451,0.009627335,2014
